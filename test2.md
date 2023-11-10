@@ -10,3 +10,9 @@ af
 saf
 asf
 aasf
+s
+s
+ss
+
+s
+git add .
